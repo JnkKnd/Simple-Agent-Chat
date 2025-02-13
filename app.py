@@ -1,4 +1,3 @@
-# chainlit run agent3_chat.py -w で実行
 import chainlit as cl
 import json
 import datetime

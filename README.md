@@ -20,7 +20,7 @@ Azure Portal から Azure OpenAI リソースを作成後、Azure AI Foundry で
 
 ### 環境変数の設定
 .env-sample のファイル名を .env に変更し、プロジェクトの接続文字列を設定
-![alt text](image.png)
+![alt text](image/image.png)
 
 
 ### 実行
