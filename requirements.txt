@@ -1,0 +1,3 @@
+chainlit
+azure-identity
+azure-ai-projects
