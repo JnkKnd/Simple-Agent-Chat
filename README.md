@@ -15,7 +15,7 @@ pip install -r .\requirements.txt
 ```
 
 ### Azure AI Foundry でのモデルデプロイ
-Azure Portal から Azure OpenAI リソースを作成後、Azure AI Foundry でプロジェクトを作成し、 gpt-4o-mini をデプロイしてください。
+Azure Portal から Azure AI Foundry Hub リソースを作成後、Azure AI Foundry でプロジェクトを作成し、 gpt-4o-mini をデプロイしてください。
 
 
 ### 環境変数の設定
